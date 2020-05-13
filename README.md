@@ -20,4 +20,5 @@
     Nos dois casos, utilizamos a tag a, que possui o atributo href no qual indicamos o destino daquele link.
   
 ##  Tabelas no HTML
-    Tabelas são elementos utilizados com frequência para exibir dados de forma organizada em linhas e colunas. No HTML, elas são formadas por três tags básicas: table, para delimitar a tabela; tr, para indicar as linhas; e td para formar as colunas. 
+    Tabelas são elementos utilizados com frequência para exibir dados de forma organizada em linhas e colunas.
+    No HTML, elas são formadas por três tags básicas: table, para delimitar a tabela; tr, para indicar as linhas; e td para formar as colunas. 
